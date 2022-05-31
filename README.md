@@ -1,4 +1,5 @@
 [![Twitter Badge linked to Carlos Agarie's personal profile](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/carlos_agarie)
+[![Stackoverflow badge linked to Carlos Agarie's personal profile](https://img.shields.io/badge/Stackoverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1015273/agarie)
 [![LinkedIn Badge linked to Carlos Agarie's personal profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-agarie-99469012)
 
 ### Hey! 
