@@ -15,7 +15,7 @@ I'm a Software Engineer initially trained in Electrical Engineering and Control 
 ---
 
 - ⚡ Fun facts: 
-  1. I studied Control Engineering at the [University of São Paulo](https://www5.usp.br/#english) but ended up working in software. Turns out the knowledge I developed there was useful when I designed and built a scanner for large maps while working at Mercúrio! 
-  2. I spent one year as an exchange student in Computer Engineering [Arizona, USA](https://erau.edu/). Due to the lower amount of coursework there compared to Brazil, I spent a lot of time reading and studying about computers, programming and contributing to open source communities. I still have notes written during that time that come in handy.
+  1. I studied Control Engineering at the [University of São Paulo](https://www5.usp.br/#english) but ended up working in software. Turns out the knowledge I developed there was useful when I designed and built a scanner for large maps while working at Mercúrio.
+  2. I spent one year as a Computer Engineering exchange student in Arizona, USA ([at ERAU](https://erau.edu/)). Due to the lower amount of coursework there compared to Brazil, I spent a lot of time reading and studying about computers, programming and contributing to open source communities. I still have notes written during that time that come in handy.
   3. Most of my early social life started as part of a Pokémon community in Brazil, and I joined the local league as a Tournament Organizer from 2007 up until 2018. I met my wife in one of these tournaments—she ended up becoming a National Champion.
   4. Between 2016 and 2018 I was invited by The Pokémon Company as a Judge for several international tournaments. Thus I can say I visited Australia, Europe and some parts of the US on Pikachu's dime.
