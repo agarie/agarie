@@ -6,11 +6,11 @@
 
 I'm a Software Engineer initially trained in Electrical Engineering and Control Systems.
 
-- 🔭 I’m currently working at Mercúrio, a company I co-founded in Brazil that specializes in digital repositories and digitization projects for Cultural Heritage Institutions. I wrote most of our internal tools and customized open source repository software—like [AtoM](https://www.accesstomemory.org/en/), [Archivematica](https://www.archivematica.org/en/), [DSpace](https://duraspace.org/dspace/), [Collective Access](https://www.collectiveaccess.org/)—to our client's needs.
+- I currently work at [Tarmac](https://www.tarmac.io/), a software consultancy from Minneapolis, US, as a Senior Software Engineer. I deal mainly with Rails and React.
+- 🔭 Up until 2022 I worked at Mercúrio, a company I co-founded in Brazil that specializes in digital repositories and digitization projects for Cultural Heritage Institutions. I wrote most of our internal tools and customized open source repository software—like [AtoM](https://www.accesstomemory.org/en/), [Archivematica](https://www.archivematica.org/en/), [DSpace](https://duraspace.org/dspace/), [Collective Access](https://www.collectiveaccess.org/)—to our client's needs.
 - 🌱 I’m currently:
-  - Reading [*Sustainable Rails*](https://sustainable-rails.com/) to get me up-to-date on current Rails best practices.
-  - Looking to get back into front-end development by learning what has changed in JavaScript in the last few years (maybe days?). _This one is really difficult_.
-  - Learning Rust, so everything can be safer and blazing fast 🚀
+  - Studying PostgreSQL internals and optimization strategies 📇
+  - Rebuilding my home office and personal workshop 🛠️
 
 ---
 
