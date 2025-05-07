@@ -4,13 +4,10 @@
 
 ### Hey!
 
-I'm a Software Engineer initially trained in Electrical Engineering and Control Systems.
+I'm a Software Engineer from São Paulo, Brazil.
 
-- I currently work at [Tarmac](https://www.tarmac.io/), a software consultancy from Minneapolis, US, as a Senior Software Engineer. I deal mainly with Rails and React.
+- I work as a Senior Software Engineer at [Tarmac](https://www.tarmac.io/). I mostly deal with Rails and React.
 - 🔭 Up until 2022 I worked at Mercúrio, a company I co-founded in Brazil that specializes in digital repositories and digitization projects for Cultural Heritage Institutions. I wrote most of our internal tools and customized open source repository software—like [AtoM](https://www.accesstomemory.org/en/), [Archivematica](https://www.archivematica.org/en/), [DSpace](https://duraspace.org/dspace/), [Collective Access](https://www.collectiveaccess.org/)—to our client's needs.
-- 🌱 I’m currently:
-  - Studying PostgreSQL internals and optimization strategies 📇
-  - Rebuilding my home office and personal workshop 🛠️
 
 ---
 
