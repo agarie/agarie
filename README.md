@@ -3,17 +3,15 @@
 
 ### Hello, hello
 
-I'm a software engineer from São Paulo, Brazil, with a background in Control Engineering and Machine Learning, and an alumnus from [the University of São Paulo (USP)](https://www5.usp.br/#english) and [Embry-Riddle Aeronautical University (ERAU)](https://erau.edu/).
+I'm a software engineer from São Paulo, Brazil, with a background in Control Engineering and Machine Learning, and an alumnus of the [University of São Paulo (USP)](https://www5.usp.br/#english) and [Embry-Riddle Aeronautical University (ERAU)](https://erau.edu/).
 
-I like to learn different programming languages, refactor systems and tame complexity whenever possible.
+I like to learn different programming languages, refactor systems and improve whatever I touch.
 
 ### Current work and what I'm looking for
 
-I work as a Senior Software Engineer at [Tarmac](https://www.tarmac.io/). I'm largely responsible for refactoring and fixing old codebases, improving test suites, and building internal dev tools. The tech stack is mostly Ruby on Rails, PostgreSQL, React, Docker, and a lot of stuff from AWS.
+I work as a Senior Software Engineer at [Tarmac](https://www.tarmac.io/). I'm largely responsible for refactoring and fixing old codebases, improving test suites, and building internal dev tools. The tech stack is mostly Ruby on Rails, PostgreSQL, React, Docker, and a lot of AWS.
 
-Most of my contributions to Open Source were in 2012 until 2015. Since then I found it difficult to find projects I'd like to contribute to. Feel free to drop a line at carlos [dot] agarie [at] gmail [dot] com if you're looking for help with anything cool.
-
-I'm also interested in discussing job opportunities, specifically related to Ruby or Elixir web development, or programming language development in general.
+I'm interested in discussing job opportunities, specifically related to Ruby or Elixir web development, or programming language development in general.
 
 ### Hobbies and interests
 
@@ -24,4 +22,4 @@ I'm also interested in discussing job opportunities, specifically related to Rub
 
 ---
 
-Thanks for reading so far! [I have much more information on my personal website](https://agarie.net.br/about) if you're interested, or you can contact me at carlos [dot] agarie [at] gmail [dot] com.
+Thanks for reading so far! [I have more information on my personal website](https://agarie.net.br/about) if you're interested, or you can contact me at carlos [dot] agarie [at] gmail [dot] com.
