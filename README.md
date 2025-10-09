@@ -5,13 +5,13 @@
 
 I'm a software engineer from São Paulo, Brazil, with a background in Control Engineering and Machine Learning, and an alumnus of the [University of São Paulo (USP)](https://www5.usp.br/#english) and [Embry-Riddle Aeronautical University (ERAU)](https://erau.edu/).
 
-I like to learn different programming languages, refactor systems and improve whatever I touch.
+I love playing around with different programming languages, reading textbooks, and try to improve everything I touch.
 
 ### Current work and what I'm looking for
 
 I work as a Senior Software Engineer at [Tarmac](https://www.tarmac.io/). I'm largely responsible for refactoring and fixing old codebases, improving test suites, and building internal dev tools. The tech stack is mostly Ruby on Rails, PostgreSQL, React, Docker, and a lot of AWS.
 
-I'm interested in discussing job opportunities, specifically related to Ruby or Elixir web development, or programming language development in general.
+I'm interested in discussing job opportunities, specifically related to Ruby or Elixir web development.
 
 ### Hobbies and interests
 
@@ -22,4 +22,4 @@ I'm interested in discussing job opportunities, specifically related to Ruby or 
 
 ---
 
-Thanks for reading so far! [I have more information on my personal website](https://agarie.net.br/about) if you're interested, or you can contact me at carlos [dot] agarie [at] gmail [dot] com.
+[I have more information on my personal website](https://agarie.net.br/about) and you can contact me at carlos [dot] agarie [at] gmail [dot] com.
